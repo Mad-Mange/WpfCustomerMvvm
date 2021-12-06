@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WpfApp1TaBortMig/1.0.0": {
+        "runtime": {
+          "WpfApp1TaBortMig.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp1TaBortMig/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
